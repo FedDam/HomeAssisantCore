@@ -1,0 +1,12 @@
+{
+  "domain": "cloud_bridge",
+  "name": "Cloud Bridge",
+  "codeowners": [],
+  "dependencies": [
+    "websocket_api"
+  ],
+  "documentation": "https://www.home-assistant.io/integrations/cloud_bridge",
+  "integration_type": "system",
+  "iot_class": "cloud_push",
+  "quality_scale": "internal"
+}

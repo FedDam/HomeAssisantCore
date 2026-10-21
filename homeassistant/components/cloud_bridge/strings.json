@@ -1,0 +1,8 @@
+{
+  "issues": {
+    "identity_error": {
+      "description": "The Cloud Bridge could not verify its technical identity (reason: {reason}). Remote access is disabled until the identity is recovered explicitly. Home Assistant keeps working locally.",
+      "title": "Cloud Bridge identity is blocked"
+    }
+  }
+}
